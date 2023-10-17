@@ -1,11 +1,29 @@
 [
     {
-        "Name": "rapidjson",                   # 上游开源软件名全称
-        "License": "webressources",         # 上游开源软件中包含的许可证信息
-        "License File": "license.txt",        # 许可证所在文件路径
+        "Name": "rapidjson",
+        "License": "MIT",
+        "License File": "license.txt",
         "Version Number": "7484e06c589873e1ed80382d262087e4fa80fb63",
         "Owner": "liujixin@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",   # 上游软件包发布地址
-        "Description": "第三方软件angle rapidjson"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",
+        "Description": "第三方软件angle rapidjson"
+    },
+    {
+        "Name": "rapidjson",
+        "License": "JSON",
+        "License File": "license.txt",
+        "Version Number": "7484e06c589873e1ed80382d262087e4fa80fb63",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",
+        "Description": "第三方软件angle rapidjson"
+    },
+    {
+        "Name": "rapidjson",
+        "License": "Other Permissive",
+        "License File": "license.txt",
+        "Version Number": "7484e06c589873e1ed80382d262087e4fa80fb63",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",
+        "Description": "第三方软件angle rapidjson"
     }
 ]
