@@ -1,29 +1,29 @@
 [
     {
-        "Name": "rapidjson",
+        "Name": "angle",
         "License": "MIT",
         "License File": "license.txt",
         "Version Number": "7484e06c589873e1ed80382d262087e4fa80fb63",
         "Owner": "liujixin@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",
-        "Description": "第三方软件angle rapidjson"
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/Tencent/rapidjson",
+        "Description": "第三方软件angle底层的图形渲染引擎的一部分，包含第三方软件rapidjson"
     },
     {
-        "Name": "rapidjson",
+        "Name": "angle",
         "License": "JSON",
         "License File": "license.txt",
         "Version Number": "7484e06c589873e1ed80382d262087e4fa80fb63",
         "Owner": "liujixin@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",
-        "Description": "第三方软件angle rapidjson"
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/Tencent/rapidjson",
+        "Description": "第三方软件angle底层的图形渲染引擎的一部分，包含第三方软件rapidjson"
     },
     {
-        "Name": "rapidjson",
+        "Name": "angle",
         "License": "Other Permissive",
         "License File": "license.txt",
         "Version Number": "7484e06c589873e1ed80382d262087e4fa80fb63",
         "Owner": "liujixin@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@7484e06c589873e1ed80382d262087e4fa80fb63",
-        "Description": "第三方软件angle rapidjson"
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/Tencent/rapidjson",
+        "Description": "第三方软件angle底层的图形渲染引擎的一部分，包含第三方软件rapidjson"
     }
 ]
